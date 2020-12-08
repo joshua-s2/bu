@@ -297,7 +297,7 @@ footer {
         margin-right: auto;
     }
     .sect__head {
-        font-size: 1.5rem;
+        font-size: 18px;
     }
     .sect__head::before {
         height: 5px;

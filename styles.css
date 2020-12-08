@@ -296,4 +296,17 @@ footer {
         margin-left: auto;
         margin-right: auto;
     }
+    .sect__head {
+        font-size: 1.5rem;
+    }
+    .sect__head::before {
+        height: 5px;
+        width: 78px;
+        transform: translateY(42px);
+    }
+    .sect-txt::before {
+        height: 5px;
+        width: 210px;
+        transform: translateY(74px);
+    }
 }
